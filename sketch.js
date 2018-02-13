@@ -30,6 +30,7 @@ function setup(){
     
     //add Cue
     //song.addCue(1, showSquare);
+    //done
     
     amp = new p5.Amplitude();
 }
